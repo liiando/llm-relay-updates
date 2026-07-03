@@ -1,0 +1,1 @@
+Binaries only — auto-update CDN for LLM Relay. No source here.
